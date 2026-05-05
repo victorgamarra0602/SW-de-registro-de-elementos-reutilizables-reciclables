@@ -1,0 +1,1 @@
+# SW-de-registro-de-elementos-reutilizables-reciclables
