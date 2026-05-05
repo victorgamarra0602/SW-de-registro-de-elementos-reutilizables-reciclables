@@ -53,14 +53,6 @@ Funcionalidades principales
  Panel de administración para gestionar registros
  Persistencia de datos con SQLite (sin necesidad de servidor externo)
 
-
- Capturas de pantalla
-
-(Añade aquí imágenes de tu aplicación)
-
-
  Desarrollo
 Proyecto desarrollado con Visual Studio Code como entorno de desarrollo principal.
 
- Licencia
-Este proyecto es de uso personal/educativo. Siéntete libre de usarlo como referencia.
