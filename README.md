@@ -22,7 +22,7 @@ MMVL/
 │       ├── dashboard.js    # Lógica del dashboard
 │       └── registro.js     # Lógica del formulario de registro
 
-⚙️ Instalación y ejecución
+Instalación y ejecución
 Requisitos previos
 
 Python 3.8 o superior
